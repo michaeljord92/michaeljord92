@@ -9,10 +9,10 @@
 
 
 
- <p align="center"> 
+<!--  <p align="center"> 
  Visitas no perfil :alien: <br>
  <img alingn="center" src="https://profile-counter.glitch.me/michaeljord92/count.svg" />
- </p>
+ </p> -->
 
 
 
