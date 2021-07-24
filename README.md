@@ -8,6 +8,11 @@
 [![Michaeljord92's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@michaeljord92&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+ ### Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/michaeljord92/count.svg" />
+ </p>
+
 
 
 <!--
