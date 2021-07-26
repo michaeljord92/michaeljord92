@@ -5,7 +5,7 @@
 [![Michaeljord92's github stats](https://github-readme-stats.vercel.app/api?username=michaeljord92&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljord92&theme=cobalt&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Michaeljord92's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@michaeljord92&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Michaeljord92's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaeljord92&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
